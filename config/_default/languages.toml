@@ -1,18 +1,18 @@
 [es]
-    languageName = "Spanish"
+    label  = "Spanish"
     title        = "Daniel Garcia's Site"
     weight       = 1
 
     [es.params.sidebar]
         subtitle = "Vinci quin se vinci"
 
-[en]
-    languageName = "English"
-    title        = "Hugo Theme Stack"
-    weight       = 2
-
-    [en.params.sidebar]
-        subtitle = "Card-style Hugo theme designed for bloggers"
+#[en]
+#    languageName = "English"
+#    title        = "Daniel Garcia's Site"
+#    weight       = 2
+#
+#    [en.params.sidebar]
+#        subtitle = "Vinci quin se vinci"
 
 
 #[zh]

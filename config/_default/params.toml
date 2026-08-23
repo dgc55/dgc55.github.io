@@ -1,18 +1,14 @@
 mainSections   = ["post"]
 rssFullContent = true
-favicon        = "img/avatar.png"
+favicon        = "img/avatar.jpg"
 
 [footer]
     since = 2020
 
 [sidebar]
     emoji    = "✏️"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-    [sidebar.avatar]
-    enable = true
-    local = true
-    scr = "img/avatar.png"
+    subtitle = "Vinci quin se vinci"
+    avatar   = "img/avatar.jpg"
 
 [article]
     [article.license]

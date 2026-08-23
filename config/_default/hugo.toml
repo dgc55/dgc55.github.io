@@ -1,5 +1,5 @@
 baseURL                 = "https://DaGaGatusss.github.io/"
-languageCode            = "en-us"
+locale                  = "es-es"
 title                   = "D4Ss Site"
 defaultContentLanguage  = "es"
 hasCJKLanguage          = false
