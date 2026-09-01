@@ -1,6 +1,8 @@
 ---
-title: About
-description: Mi pequeño portafolio, donde podras encontrar las cosas que hago y en las que estoy trabajando, estoy añadiendo cosas porque aun no se manejarme muy bien por aqui, bueno... gracias por visitar este blog.
+title: Sobre mí
+description: Soy Daniel Garcia, estudiante para el grado de ingeniería de industrial y entusiasta de las tecnologias
+ de la información, este blog fue creado con el objetivo de publicar cosas interesantes que aprendo, proyectos que
+ tengo en mente y algunas reflexiones.
 date: 2026-01-26
 lastmod: 2026-04-08
 menu:
@@ -11,37 +13,35 @@ menu:
 ---
 
 
-## Para quien es esto?
+## Sobre el autor.
+Soy estudiante, del grado de ingeniería industrial, en la Universidad Tecnológica del Perú, actualmente estoy
+cursando el séptimo ciclo de mi carrera, tengo conocimientos en python,SQL, excel y machine learning aplicado
+actualmente estoy aprendiendo Pyomo que es una librería de python para métodos cuantitativos, me gusta estar
+actualizado en las últimas tendencias de emprendimiento y actualmente estoy programando junto con agentes de IA.
 
-![Imagen 1](PL.jpg)
+Ultimamente he estado interesado en las tecnologías de la información y sus distintos servicios para empresas, por
+ejemplo logística, gestión de inventarios, cadenas de suministro y gestión de proyectos, haciendo pruebas con
+distintos softwares para poder replicarlos o hacerlos mejores.
 
-This is a sample **About** page. You can use it to introduce yourself, your blog, or your project. 
+Dejando de lado el ámbito académico, me gusta leer libros, artículos y revistas sobre las nuevas tendencias
+tecnológicas y modelos de negocios actuales, casi nunca me aburro siempre hay algo nuevo para aprender, me gusta
+hacer deporte, especialmente si son artes marciales, he probado hacer de todo un poco taekwondo, judo, lucha y muay-tai
+en mis tiempos libres.
 
-## About the Author
+ 
+![Imagen generada por IA](PL.jpg)
 
-Hello! I'm a passionate blogger and open-source enthusiast. I love exploring new technologies and sharing my experiences with the community.
+## Contactame
 
-### My Journey
-
-I started my journey in web development over 10 years ago. Since then, I've worked on numerous projects ranging from small personal blogs to large-scale enterprise applications.
-
-### Skills
-
-- **Front-end**: HTML, CSS, JavaScript
-- **Back-end**: Node.js, Python, Rust
-- **Tools**: Git, Bash, Hugo,  
-
-## Contact Me
-
-Feel free to reach out if you have any questions or just want to say hi!
+¡No dudes en ponerte en contacto conmigo si tienes alguna pregunta o simplemente quieres decir hola!
 
 - **Email**: [hello@example.com](mailto:hello@example.com)
 - **Twitter**: [@example](https://twitter.com/example)
 - **GitHub**: [example](https://github.com/example)
-- **Mastodont** :[example](google.com)
+- **LinkedIn** :[example](google.com)
 ---
 
-> "Logic will get you from A to B. Imagination will take you everywhere."  
+> "La lógica te llevará de A a B. La imaginación te llevará a todas partes."  
 > — *Albert Einstein*
 
 ---
