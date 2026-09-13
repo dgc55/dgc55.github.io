@@ -1,6 +1,6 @@
 ---
 author: Daniel Garcia
-title: Primer Integrador 
+title: Integrador Ingenieria Industrial
 date: 2026-04-15
 description: Este es un caso de aplicación de los conocimientos seguidos en el pregrado a partir del tercer año.
 categories:

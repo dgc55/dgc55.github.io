@@ -1,15 +1,16 @@
 ---
 author: Daniel Garcia
-title: Caso Unitex - Investigación de operaciones
-date: 2026-04-15
-description: Una breve introducción a los posibles soluciones y aplicación de nuevas tecnologías en la industria textil
+title: Métodos Cuantitativos para los Negocios
+date: 2026-09-10
+description: Esta es una breve explicación de los conceptos de cuantitativos de las ciencias de la administración, construyendo modelos y aplicaciones por computadora. Esto está aún en proceso así que haré actualizaciones continuas...
 categories:
-  - Code
+  - Maths
   - Syntax
+  - Code
 tags:
   - Industria
   - Algorithm
-  - lead
+  - Optimice
 image: cover.jpg
 ---
 # OOO
@@ -19,3 +20,5 @@ image: cover.jpg
 
 ![Image 4](/)
 
+Esta es una breve explicación de los conceptos de cuantitativos de las ciencias de la administración, construyendo
+modelos y aplicaciones por computadora. Esto está aún en proceso así que haré actualizaciones continuas...

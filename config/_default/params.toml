@@ -1,16 +1,17 @@
 mainSections   = ["post"]
 rssFullContent = true
-favicon        = "img/avatar.jpg"
+favicon        = "img/favi.jpg"
 
 [footer]
-    since = 2020
+    since = 2025
 
 [sidebar]
-    emoji    = "✏️"
-    subtitle = "Vinci quin se vinci"
-    avatar   = "img/avatar.jpg"
+    emoji    = ""
+    subtitle = "Estoy pasando mis apuntes así que hay que tener paciencia ;)"
+    avatar   = "img/Profile00.jpg"
 
 [article]
+    math = true
     [article.license]
         enabled = true
         default = "Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
